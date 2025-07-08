@@ -1,2 +1,7 @@
 salam. man amirreza hastam.
+<<<<<<< HEAD
 20 salameh
+=======
+
+today, i have GIT exam.
+>>>>>>> detach
